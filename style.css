@@ -8,3 +8,7 @@ h1  {
 #container {
   text-align: center;
 }
+p {
+  font-family: helvetica;
+  color: red;
+}
