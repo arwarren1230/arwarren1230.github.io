@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+  padding: 40px;
+  max-width: 800px;
+  border-top: 6px solid black;
+  border-bottom: 6px solid black;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+}
+h2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-variant: small-caps;
+}
+ul.navigation {
+  text-align: center;
+  font-size: 18px;
+  margin: 10px;
+}
+  li.nav {
+  font-style: italic;
+  border-right: 1px solid black;
+  padding: 4px;
+  display: inline;
+}
+p {
+  font-size: 14px;
+}
+ul.experience {
+  text-align: left;
+  display: block;
+  list-style-type: circle;
+}
