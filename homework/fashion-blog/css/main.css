@@ -1,0 +1,84 @@
+body {
+  font-family: Lato;
+  color: #444444;
+  line-height: 1.5;
+}
+div.container {
+  width: 720px;
+  padding: 0 0 0 54px;
+  border-left: solid 6px #dddddd;
+}
+h1 {
+  color: rgb(220,30,30);
+  font-size: 56px;
+  font-weight: 100;
+  margin: 30px 0 0 0;
+}
+h3 {
+  color: rgb(0,0,0);
+  font-weight: 100;
+  font-size: 32px;
+  margin: 0;
+}
+ul {
+  margin: 10px 0;
+  padding: 0;
+}
+h2 {
+  margin: 0;
+}
+div.post {
+  margin: 50px 0;
+  border-bottom: 1px solid #cccccc;
+}
+img {
+  width: 720px;
+}
+div.post a {
+  color: #DD0000;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+p {
+  font-size: 18px;
+}
+div.nav li {
+  list-style-type: none;
+  display: inline;
+  padding: 0 20px 50px 0;
+  font-size: 22px;
+}
+div.nav a {
+  color: #dddddd;
+}
+div.continues {
+  text-align: right;
+}
+h2.date {
+  color: #cccccc;
+  font-weight: 100;
+  font-size: 42px;
+}
+h2.title {
+  color: rgb(0,0,0);
+  font-weight: 100;
+  font-size: 42px;
+}
+div.footer li {
+  display: inline;
+  padding: 0 10px 0 10px;
+  border-right: 1px solid #cccccc;
+}
+div.footer li.last {
+  border: none;
+}
+div.footer a {
+  color: #DD0000;
+  font-size: 18px;
+  text-decoration: none;
+}
+div.copyright {
+  font-size: 18px;
+  color: #cccccc;
+}

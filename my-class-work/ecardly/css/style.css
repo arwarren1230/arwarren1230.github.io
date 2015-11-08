@@ -1,0 +1,38 @@
+body {
+  background-image: url("../images/background.jpg");
+}
+div.container {
+  width: 800px;
+  margin: 0 auto;
+}
+div.logo {
+  text-align: center;
+  padding: 20px;
+}
+h2 {
+  font-size: 20px;
+}
+.post img {
+  width: 100%;
+}
+div.blog {
+  background-color: #ffffff;
+}
+a {
+  color: #ff3300;
+  text-decoration: none;
+  font-weight: bold;
+}
+p {
+  font-size: 12px;
+}
+div.footer {
+  border-bottom: 2px solid black;
+  border-top: 1px dashed black;
+  font-size: 12px;
+}
+div.post {
+  padding: 10px;
+  width: 780px;
+  margin: 0 auto;
+}
