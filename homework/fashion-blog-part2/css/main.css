@@ -1,3 +1,5 @@
+/*Overall very clean*/
+
 body {
   font-family: Lato;
   color: #444444;
@@ -73,6 +75,7 @@ h2.title {
   font-weight: 100;
   font-size: 42px;
 }
+/*indentation*/
 span {
     color: rgb(190,190,190);
     font-size: 120px;

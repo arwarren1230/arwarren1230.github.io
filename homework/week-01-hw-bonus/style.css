@@ -20,6 +20,7 @@ ul.navigation {
   font-size: 18px;
   margin: 10px;
 }
+/*extra indentation*/
   li.nav {
   font-style: italic;
   border-right: 1px solid black;
@@ -34,3 +35,6 @@ ul.experience {
   display: block;
   list-style-type: circle;
 }
+
+/*Very neatly written code!*/
+

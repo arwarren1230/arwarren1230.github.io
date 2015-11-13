@@ -1,5 +1,7 @@
+/*indentation in body doesn't match other elements*/
 body {
     background-color: rgb(162, 163, 168);
+    /*this padding is really pushing the h1 down on the page, it would be good to keep it 'above the fold'*/
     padding: 100px;
     font-family: 'Playfair Display', cursive;
 }
