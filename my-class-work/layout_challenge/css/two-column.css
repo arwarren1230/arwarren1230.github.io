@@ -1,0 +1,30 @@
+div.container {
+  width: 800px;
+  margin: 0 auto;
+}
+div.header {
+  height: 100px;
+  width: 800px;
+  background-color: red;
+}
+div.left {
+  height: 400px;
+  width: 500px;
+  float: left;
+  background-color: yellow;
+}
+div.right {
+  height: 400px;
+  width: 300px;
+  float: left;
+  background-color: green;
+  margin: 0;
+}
+div.footer {
+  height: 100px;
+  width: 800px;
+  background-color: blue;
+}
+.clear {
+  clear: both;
+}

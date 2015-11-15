@@ -1,0 +1,21 @@
+div.container {
+  width: 1000px;
+}
+div.header {
+  height: 200px;
+  background-color: rgb(255,0,200);
+}
+div.article {
+  height: 400px;
+  width: 200px;
+  background-color: purple;
+  float: left;
+  margin: 20px;
+}
+div.footer {
+  height: 200px;
+  background-color: rgb(255,150,0);
+}
+.clear {
+  clear: both;
+}

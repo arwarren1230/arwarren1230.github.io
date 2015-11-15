@@ -1,0 +1,134 @@
+body {
+  color: #333333;
+  background-color: rgb(240,240,240);
+  width: 1280px;
+  font-family: Arial;
+}
+.clear {
+  clear: both;
+}
+.nav {
+  background-color: rgb(0,0,0);
+  height: 80px;
+}
+.nav a {
+  color: #cccccc;
+  text-decoration: none;
+}
+.nav a:hover {
+  color: #96DDFC;
+  text-decoration: underline;
+}
+.nav li {
+  display: inline;
+  padding: 40px 30px 30px 80px;
+  font-size: 18px;
+}
+.nav ul {
+  padding-top: 30px;
+}
+.section {
+  padding: 30px 0 0 80px;
+  width: 960px;
+}
+#social-nav {
+  float: right;
+}
+#banner {
+  margin: 20px 0 0 0;
+  box-shadow: 5px 10px 5px #888888;
+}
+.inset {
+  border-top: 1px solid gray;
+  border-left: 1px solid gray;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+  margin: 40px 0 0 0;
+  font-size: 22px;
+  padding: 20px;
+}
+.inset p {
+  width: 600px;
+  float: left;
+}
+#quote {
+  float: right;
+  padding: 20px 0 0 0;
+}
+div.home-box {
+  width: 290px;
+  float: left;
+  margin: 40px 0 0 0;
+}
+div.second {
+  margin: 40px 45px 0 45px;
+}
+img.home-box {
+  border: 6px solid #E2E2E2;
+}
+img.home-box:hover {
+  border: 6px solid #F9F9F9;
+}
+div.home-box h1 {
+  font-size: 24px;
+}
+div.home-box p {
+  font-size: 14px;
+}
+div.home-box a {
+  font-size: 14px;
+  text-decoration: none;
+}
+div.home-box a:hover {
+  text-decoration: underline;
+}
+.footer {
+  padding: 50px 0 0 80px;
+  background-color: rgb(0,0,0);
+  height: 300px;
+  margin: 10px 0 0 0;
+}
+.footer h2 {
+  color: #cccccc;
+  font-size: 20px;
+}
+.box-footer {
+  width: 210px;
+  float: left;
+}
+.center {
+  width: 400px;
+  padding: 0 30px 0 30px;
+}
+.center h2 {
+  border-bottom: 1px solid #515151;
+  padding-bottom: 15px;
+}
+.footer li {
+  list-style-type: none;
+  border-bottom: 1px solid #515151;
+  padding: 5px 0 5px 0;
+  font-size: 15px;
+}
+.footer ul {
+  margin: 0;
+  padding: 0;
+  width: 210px;
+}
+.top {
+  border-top: 1px solid #515151;
+}
+#copyright {
+  padding: 30px 0 0 0;
+  font-size: 13px;
+  float: left;
+}
+#company-bottom {
+  float: right;
+  padding: 30px 320px 0 0;
+  font-size: 13px;
+}
+#company-bottom a {
+  text-decoration: none;
+  color: #96DDFC;
+}

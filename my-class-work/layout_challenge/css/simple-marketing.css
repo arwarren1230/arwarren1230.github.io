@@ -1,0 +1,30 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+.header {
+  background: rgb(255,0,0);
+  height: 100px;
+}
+.section {
+  background: rgb(255,255,0);
+  height: 250px;
+  width: 590px;
+  float: left;
+}
+.article {
+  background: rgb(0,255,0);
+  width: 393px;
+  height: 100px;
+  float: left;
+}
+.footer {
+  background: rgb(0,0,255);
+  height: 100px;
+}
+.clear {
+  clear: both;
+}
+.left {
+  margin: 0 10px 0 0;
+}
