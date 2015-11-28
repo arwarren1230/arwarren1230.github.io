@@ -1,3 +1,5 @@
+/*very clean css!*/
+
 body {
   font-family: "Merriweather", serif;
   width: 1200px;
@@ -44,6 +46,7 @@ h1 {
 }
 .section {
   background-image: url("images/coworking.jpg");
+  /*along with avoiding fixed width for the main element, its better to not set this width over and over. block elements will already take up width of their parent and if you need to set the width you can use 100% so you don't have to change a value over and over*/
   width: 1200px;
   height: 500px;
 }
