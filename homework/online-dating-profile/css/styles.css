@@ -1,0 +1,110 @@
+body {
+  width: 1200px;
+  margin: 40px;
+  font-family: 'Lato', sans-serif;
+}
+.clear {
+  clear: both;
+}
+.nav {
+  background-color: rgb(80,80,80);
+  height: 100px;
+  padding: 8px;
+  border-bottom: 10px solid rgb(20,20,20);
+}
+.nav h1 {
+  width: 200px;
+  color: rgb(255,255,255);
+  float: left;
+  padding: 10px;
+  font-size: 45px;
+  margin: 10px 0 0 0;
+}
+.nav ul {
+  margin: 40px 0 0 640px;
+}
+.nav li {
+  display: inline;
+  padding: 0 8px;
+}
+.nav a {
+  text-decoration: none;
+  color: rgb(255,255,255);
+  font-size: 18px;
+}
+.nav a:hover {
+  color: rgb(0,120,240);
+}
+.profilePic {
+  height: 350px;
+  width: 500px;
+  margin: 20px 50px 0 0;
+  float: left;
+}
+#dude {
+  height: 350px;
+  width: 500px;
+  margin: 0 50px 0 0;
+  border: 3px solid rgb(200,200,255);
+  float: left;
+}
+h2 {
+  font-size: 48px;
+  font-weight: bold;
+  margin: 25px 0 0 0;
+  color: rgb(0,120,240);
+}
+h3 {
+  font-style: italic;
+  font-size: 30px;
+}
+span {
+  color: rgb(0,120,240);
+  font-size: 48px;
+}
+.socialnav {
+  float: left;
+  width: 400px;
+}
+.socialnav ul {
+  list-style: none;
+}
+.socialnav li {
+  padding: 10px 0;
+  border-bottom: 1px solid rgb(100,100,100);
+  width: 400px;
+}
+.socialnav li:hover {
+  color: rgb(0, 120, 240);
+}
+.tab {
+  float: left;
+  margin: -120px 0 0 160px;
+}
+h4 {
+  float: left;
+  padding: 5px 40px;
+  font-size: 18px;
+}
+#selected {
+  border-left: 1px solid gray;
+  border-right: 1px solid gray;
+  border-top: 1px solid gray;
+}
+#unselected {
+  background-color: rgba(0,120,240,.5);
+  color: rgb(255,255,255);
+  border-bottom: 1px solid gray;
+}
+.section ul {
+  display: inline-block;
+  width: 120px;
+  float: left;
+}
+.section li {
+  list-style-type: none;
+  padding: 6px;
+}
+.right ul {
+  width: 300px;
+}

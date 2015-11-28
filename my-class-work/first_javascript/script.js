@@ -1,0 +1,12 @@
+alert('this is an alert. this is annoying');
+document.write('writing the document, like a boss');
+var num1 = 10 * 10;
+document.write(num1);
+var num2 = 100/10;
+document.write(num2);
+var num3 = 50 - 17;
+document.write(num3);
+var string1 = 'Amanda ' + 'Warren';
+document.write(string1);
+document.getElementById('title').style.color='red';
+document.getElementById('text-chunk')style.color='blue';
